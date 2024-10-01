@@ -46,6 +46,5 @@ This project utilizes artificial intelligence to convert text from images into e
 ## Challenges Overcome
 - Handling low-quality or noisy images was a challenge, and the system was improved using advanced image analysis libraries.
 
-## GitHub Repository
-[](#)
+
 
